@@ -5,7 +5,7 @@ This repository contains the Token Validator App, which consists of a validator 
 1. Clone the repository to your local machine:
 
 ```
-git clone git@github.com:mohank524/akirolabs.git
+git clone git@github.com:mohank524/akirolabs-token-validation.git
 Navigate to the project directory:
 ```
 
