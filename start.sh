@@ -1,11 +1,13 @@
 #!/bin/bash
 
 cd validator
+npm install
 node app.js &
 echo "Validator service started."
 
 cd ../
-cd frontend/src
+cd frontend
+npm install
 export PORT=8080
 npm start &
 echo "Frontend service started."
