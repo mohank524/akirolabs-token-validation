@@ -19,7 +19,9 @@ cd token-validator
 
 4. Open a terminal and run the start.sh script to start the services:
 
-```./start.sh```
+```
+./start.sh
+```
 
 5.To stop all services and exit, press any key in the terminal.
 
