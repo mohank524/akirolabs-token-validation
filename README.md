@@ -6,13 +6,13 @@ This repository contains the Token Validator App, which consists of a validator 
 
 ```
 git clone git@github.com:mohank524/akirolabs-token-validation.git
-Navigate to the project directory:
+
 ```
 
 2. Navigate to the project directory:
 
-```cd token-validator
-Make sure you have Node.js installed on your machine.
+```
+cd token-validator
 ```
 
 3. Make sure you have Node.js installed on your machine.
